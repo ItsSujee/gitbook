@@ -20,4 +20,4 @@
 
 ## ⚡ Equilibrium Energy
 
-* [Equilibrium Energy DevOps Interview](equilibrium-energy/equilibrium-energy-devops-interview.md)
+* [👋 Equilibrium Energy DevOps Interview](equilibrium-energy/equilibrium-energy-devops-interview.md)

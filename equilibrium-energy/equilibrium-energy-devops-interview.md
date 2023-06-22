@@ -1,4 +1,4 @@
-# Equilibrium Energy DevOps Interview
+# 👋 Equilibrium Energy DevOps Interview
 
 ## Job Description:
 
