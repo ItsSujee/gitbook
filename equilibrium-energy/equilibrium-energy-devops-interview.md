@@ -41,5 +41,41 @@ Job Role: _**DevOps Engineer (But more like Site Reliability Engineer + ArgoCD)*
 * Monitoring using AWS Cloud Watch\* room for improvement using promethus\&grafana, datadog, splunk, etc.
 * Oncall alerting using PagerDuty
 
+## System Architecture Diagram:
+
+* Kubeflow on EKS
+* Replace RDS with High Availability Postgres
+* CloudWatch for Monitoring
+
+<figure><img src="../.gitbook/assets/ML-8280-image003.jpg" alt=""><figcaption></figcaption></figure>
+
+## Better Kubernetes Monitoring Stack:
+
+Prometheus for Monitoring & Grafana for Visualization
+
+Cloud Knative stack for native Kubernetes monitoring
+
+<figure><img src="../.gitbook/assets/Screenshot 2023-06-22 at 4.27.34 PM.png" alt=""><figcaption></figcaption></figure>
+
+
+
+## Future Organization Development:
+
+Build a Site Reliability Engineering culture. Kitchen Sink -> Infrastructure
+
+Kitchen Sink: Startup where SRE responsibilities are unbound
+
+Infrastructure: SRE works on shared services like Kubernetes deployment specs, or common components like CI/CD pipelines, monitoring, VPC, Networking, IAM, etc.&#x20;
+
+### **7 SRE Principles**
+
+1. Embracing Risk
+2. Service Level Objectives
+3. Eliminating toil
+4. Monitoring
+5. Release Engineering
+6. Automation
+7. Simplicity
+
 
 

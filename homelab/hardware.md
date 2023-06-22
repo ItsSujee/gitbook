@@ -1,6 +1,6 @@
 # 🔧 Hardware
 
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 ## Server 1: Lenovo ThinkCentre M710Q Tiny
 
