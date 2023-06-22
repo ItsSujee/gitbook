@@ -15,5 +15,9 @@
 
 * [📙 Product Management](bermuda-transit-app/product-management.md)
 * [📱 React Native](bermuda-transit-app/react-native.md)
-* [📦 Backend](bermuda-transit-app/backend.md)
+* [📦 API](bermuda-transit-app/api.md)
 * [🗃 Database](bermuda-transit-app/database.md)
+
+## ⚡ Equilibrium Energy
+
+* [Equilibrium Energy DevOps Interview](equilibrium-energy/equilibrium-energy-devops-interview.md)
